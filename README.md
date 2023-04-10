@@ -1,10 +1,11 @@
 # gsb-laravel-master
 Cas GSB en utilisant laravel  
-- [Installation et Mise en oeuvre](#Installation et Mise en oeuvre)
+
+- [Installation et Mise en oeuvre](#Installation-et-Mise en oeuvre)
   - [Installation](#Installation)
-  - [Copie des fichiers de gsb](#Copie des fichiers de gsb)
-- [Bugs à l'utilisation](#Bugs à l'utilisation)
-  - [Erreur 404](#Erreur 404)
+  - [Copie des fichiers de gsb](#Copie-des-fichiers-de-gsb)
+- [Bugs à l'utilisation](#Bugs-à-l'utilisation)
+  - [Erreur 404](#Erreur-404)
   - [Pas d'erreur affichée](#Pas d'erreur affichée)
   - [Debugger votre programme](#Debugger votre programme)
 - [Exemple](#Exemple créer une page test)

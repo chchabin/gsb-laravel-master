@@ -8,10 +8,10 @@ Cas GSB en utilisant laravel
   - [Pas d'erreur affichée](#Pas d'erreur affichée)
   - [Debugger votre programme](#Debugger votre programme)
 - [Exemple](#Exemple créer une page test)
-  - [Étape 1 : créer le lien dans le sommaire](#Étape 1 créer le lien dans le sommaire)
+  - [Étape 1 créer le lien dans le sommaire](#Étape 1 créer le lien dans le sommaire)
   - [Étape 2 créer la route](#Étape 2 créer la route)
   - [Étape 3.1 Ajouter une méthode au contrôleur, EtatFraisController](#Étape 31 Ajouter une méthode au contrôleur EtatFraisController)
-  - [Étape 32 Ajouter une méthode à un nouveau contrôleur](#Étape 32 Ajouter une méthode à un nouveau contrôleur)
+  - [Étape 3.2 Ajouter une méthode à un nouveau contrôleur](#Étape 32 Ajouter une méthode à un nouveau contrôleur)
   - [Étape 4 Créer la vue ](#Étape 4 Créer la vue )
 
 ## Installation et Mise en oeuvre
